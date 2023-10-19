@@ -5,5 +5,5 @@ The goal of this project is to perform a 2DES meet-in-the-middle attack given a 
 
 
 ```
-![plot](C:\Users\ROL45\robertlois\2DES\2DES-Meet-in-the-Middle-Attack\Pictures\2des.png)
+![alt text](https://github.com/tycho-bro-hey/2DES-Meet-in-the-Middle-Attack/blob/main/Pictures/2des.PNG)
 ```
