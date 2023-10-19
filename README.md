@@ -5,5 +5,5 @@ The goal of this project is to perform a 2DES meet-in-the-middle attack given a 
 
 
 ```
-![alt text](https://github.com/tycho-bro-hey/2DES-Meet-in-the-Middle-Attack/blob/main/Pictures/2des.PNG)
+![FT](https://github.com/tycho-bro-hey/2DES-Meet-in-the-Middle-Attack/blob/main/Pictures/2des.PNG)
 ```
